@@ -34,6 +34,10 @@ Auto → OBD2 → Raspberry Pi / Laptop → Python → Dashboard → Pantalla
 
 ## 🧱 Estructura del proyecto
 
+cat << 'EOF' > estructura.md
+## 🧱 Estructura del proyecto
+
+\`\`\`
 car-dashboard/
 ├── src/
 │   ├── main.py
@@ -46,6 +50,8 @@ car-dashboard/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+\`\`\`
+EOF
 
 ---
 
