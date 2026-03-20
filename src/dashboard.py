@@ -1,0 +1,5 @@
+def display(data)
+    print(f"RPM: {data['rpm']}")
+    print(f"Velocidad: {data['speed']}km/h")
+    print(f"Temp: {data['temp']}"°C)
+    print("-"*30)
