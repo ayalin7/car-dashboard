@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 🚗 Car Dashboard (Raspberry Pi + OBD2)
 
 Sistema de telemetría y visualización en tiempo real para automóvil usando Raspberry Pi, OBD2 (ELM327) y Python.
@@ -50,7 +49,6 @@ car-dashboard/
 ├── README.md
 └── .gitignore
 ```
-EOF
 
 ---
 
@@ -108,6 +106,4 @@ Proyecto enfocado en:
 ---
 
 ## 📄 Licencia
-
 MIT
-EOF
